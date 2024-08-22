@@ -1,4 +1,4 @@
-{
-  "name": "ice",
-  "displayName": "ice"
-}
+yarn install
+
+## Optional: for iOS only
+npx pod-install
